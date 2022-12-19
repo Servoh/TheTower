@@ -30,13 +30,13 @@ These labels you might see and wonder what they are for. Usually these are used 
 
  - https://github.com/Servoh/TheTower/labels/invalid - Indicates that an issue is invalid. See [invalid issues](#invalid-issues) for more info
  
- - https://github.com/Servoh/TheTower/labels/needs more info - Indicates that an issue is missing some info. See [invalid issues](#) for more info
+ - https://github.com/Servoh/TheTower/labels/needs-more-info - Indicates that an issue is missing some info. See [invalid issues](#) for more info
  
  - https://github.com/Servoh/TheTower/labels/pending - Indicates that an issue is waiting to be passed off by us.
  
  - https://github.com/Servoh/TheTower/labels/duplicate - Indicates an issue is a duplicate of another issue
  
- - https://github.com/Servoh/TheTower/labels/help wanted - Indicates that one of our team members is wanting more of the team to work on the issue
+ - https://github.com/Servoh/TheTower/labels/help-wanted - Indicates that one of our team members is wanting more of the team to work on the issue
  
  - https://github.com/Servoh/TheTower/labels/wontfix - Indicates that we won't work on the issue or fix it, this could be for various reasons. If we don't specify why, don't bug us about it, we didn't for a reason (usually)
 </p>
@@ -61,6 +61,6 @@ If it gets bad, we might make it so issues will have to be 'approved', essential
 </details>
 
 
-##Invalid issues
+## Invalid issues
 When we look through issues, we might mark it with the https://github.com/Servoh/TheTower/labels/invalid label, which indicates that the issue isn't formatted right, or is missing important info. When this happens, we will leave a comment after marking it saying what needs to be fixed. Once we see that it is fixed, we will unmark it and resume work on it once we get to it. If it isn't that important, and you don't fix it within a few weeks, we will just close the issue without fixing it during our issue purging periods.
 
