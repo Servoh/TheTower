@@ -14,6 +14,7 @@ This repo's sole purpose is to be used to make the public releases downloadable 
 <details><summary>Public Labels</summary>
 <p>
 These are the labels you usually will be using when creating things here
+ 
  - https://github.com/Servoh/TheTower/labels/bug - Indicates that an issue is a bug
 
  - https://github.com/Servoh/TheTower/labels/documentation - Indicates that it is a change/improvement/addition to a documentation
