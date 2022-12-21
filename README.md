@@ -8,6 +8,9 @@ Bug Report Google Form Links:
 
 This repo's sole purpose is to be used to make the public releases downloadable for others, and to let others [see/create issues](https://github.com/Servoh/TheTower/issues)
 
+# Want to help?
+If you want to help, either just [download the game](https://github.com/Servoh/TheTower/releases) and report any bugs or suggestions in issues, or go see what [issues need testing](https://github.com/Servoh/TheTower/issues?q=is%3Aissue+is%3Aopen+label%3A"Needs-Testing"). Those are the current most helpful ways! I will not give anyone access to game files, scripts, source code, etc. as this is for a competition and is being made by a team of friends. This is here to let others help play test, bug hunt, and give suggestions for us to use.
+
 
 ## Useful info
 
